@@ -1,0 +1,28 @@
+# IntelliJ IDEA
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+env/
+venv/
+virtualenv/
+
+# SQLite
+*.sqlite3
+*.db
+
+# Miscellaneous
+*.swp
+*~
