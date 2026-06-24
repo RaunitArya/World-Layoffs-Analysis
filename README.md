@@ -1,5 +1,8 @@
+<!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
-![image](.\resources\img.png)
+<p align="center">
+  <img src="./resources/img.png" alt="Banner">
+</p>
 
 # SQL EDA Project: World Layoffs Analysis
 
