@@ -150,7 +150,7 @@ You can now run analytical queries on `clean_layoffs`, such as:
 
 ### 1. Global Lay-offs by Year(2020 - 2023)
 
-![chart](./charts/Global_Layoffs_by_Year_(2020–2023).png)
+![chart](./Charts/Global_Layoffs_by_Year_(2020–2023).png)
 
 **Key Insights:**
 
@@ -187,14 +187,14 @@ Companies in the United Arab Emirates (46.3%) and Australia (38.5%) experienced 
 
 ### 6. Total Layoffs by Funding Stage
 
-![chart](./charts/Layoffs_Funding_Stage.png)
+![chart](./Charts/Layoffs_Funding_Stage.png)
 **Key Insights:**
 
 Post-IPO companies generated the largest number of layoffs, accounting for more than 204,000 affected employees. This indicates that large public companies played a major role in the global layoff wave.
 
 ### 7. Layoff Severity by Funding Stage
 
-![chart](./charts/Layoff_severity.png)
+![chart](./Charts/Layoff_severity.png)
 **Key Insights:**
 
 Seed-stage startups experienced the most severe workforce reductions, laying off an average of 70.17% of employees. Although Post-IPO firms generated more layoffs overall, their average layoff percentage was significantly lower.
