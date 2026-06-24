@@ -1,3 +1,4 @@
+<!-- markdownlint-disable MD041 -->
 ![image](.\resources\img.png)
 
 # SQL EDA Project: World Layoffs Analysis
@@ -10,13 +11,13 @@ This project performs Exploratory Data Analysis (EDA) on a layoffs dataset using
 
 ## 🔖 Table of Contents
 
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Project Structure](#project-structure)
+- [Overview](#-overview)
+- [Dataset](#-dataset)
+- [Project Structure](#-project-structure)
 - [Prerequisites](#prerequisites)
-- [Setup and Usage](#setup-and-usage)
-- [Data Cleaning Steps](#data-cleaning-steps)
-- [Results](#results)
+- [Setup and Usage](#-setup-and-usage)
+- [Data Cleaning Steps](#-data-cleaning-steps)
+- [Results](#-results)
 - [Key Findings](#-key-findings)
 - [SQL Concepts Used](#-sql-concepts-used)
 - [Future Improvements](#-future-improvements)
@@ -25,10 +26,10 @@ This project performs Exploratory Data Analysis (EDA) on a layoffs dataset using
 
 ## 🔶 Overview
 
-* This project presents an end-to-end exploratory data analysis of global layoffs reported between 2020 and 2023 using PostgreSQL.
-* The dataset was cleaned, standardized, and enriched through extensive data validation and missing-value handling, including research-based verification of funding information. 
-* Through SQL-driven analysis, the project examines layoff trends across countries, industries, company funding stages, and time periods, while comparing workforce reduction patterns during and after the COVID-19 pandemic. 
-* The analysis uncovers key business insights into layoff volume, severity, and the shifting factors that drove workforce reductions across the global startup and technology ecosystem.
+- This project presents an end-to-end exploratory data analysis of global layoffs reported between 2020 and 2023 using PostgreSQL.
+- The dataset was cleaned, standardized, and enriched through extensive data validation and missing-value handling, including research-based verification of funding information.
+- Through SQL-driven analysis, the project examines layoff trends across countries, industries, company funding stages, and time periods, while comparing workforce reduction patterns during and after the COVID-19 pandemic.
+- The analysis uncovers key business insights into layoff volume, severity, and the shifting factors that drove workforce reductions across the global startup and technology ecosystem.
 
 ----
 
@@ -252,4 +253,3 @@ The companies driving layoffs shifted over time. Travel and mobility firms such 
 - Build an interactive Power BI dashboard
 - Add predictive layoff trend analysis
 - Integrate macroeconomic indicators
-
