@@ -146,6 +146,8 @@ You can now run analytical queries on `clean_layoffs`, such as:
 - Companies with the highest layoffs
 - Trends over time
 
+![Dashboard](./powerbi_visuals/dashboard.png)
+
 ### EDA (Exploratory Data Analysis) Insights
 
 ### 1. Global Lay-offs by Year(2020 - 2023)
@@ -256,6 +258,5 @@ The companies driving layoffs shifted over time. Travel and mobility firms such 
 
 # 🔮 Future Improvements
 
-- Build an interactive Power BI dashboard
 - Add predictive layoff trend analysis
 - Integrate macroeconomic indicators
