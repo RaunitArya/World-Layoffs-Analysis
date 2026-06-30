@@ -182,7 +182,8 @@ The United States accounted for the highest number of layoffs, with over 256,000
 
 ### 5. Average Layoff Severity by Country
 
-![chart](./powerbi_visuals/Avg_Layoff_Severity_by_country.png)
+![chart](./powerbi_visuals/Avg_Layoff_Severity_by_Country.png)
+
 **Key Insights:**
 
 Companies in the United Arab Emirates (46.3%) and Australia (38.5%) experienced the deepest workforce reductions on average. In contrast, the United States recorded a lower average layoff percentage despite having the highest number of layoffs overall.
