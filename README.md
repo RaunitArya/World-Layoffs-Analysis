@@ -150,7 +150,7 @@ You can now run analytical queries on `clean_layoffs`, such as:
 
 ### 1. Global Lay-offs by Year(2020 - 2023)
 
-![chart](./Charts/Global_Layoffs_by_Year_(2020–2023).png)
+![chart](./powerbi_visuals/Global_Layoffs_by_Year_(2020-2023).png)
 
 **Key Insights:**
 
@@ -158,7 +158,7 @@ Layoffs peaked in 2022 (160,661 employees) and remained elevated in 2023 (125,67
 
 ### 2. Cumulative Global Layoffs Over Time
 
-![chart](./Charts/Rolling_sum.png)
+![chart](./powerbi_visuals/Rolling_sum.png)
 
 **Key Insights:**
 
@@ -166,35 +166,35 @@ The cumulative layoff trend shows two major disruption periods: the COVID-19 sho
 
 ### 3. Average Layoff Severity — COVID Era vs Post-COVID Era
 
-![chart](./Charts/Covid_vs_Post_Covid.png)
+![chart](./powerbi_visuals/Covid_vs_Post_Covid.png)
 **Key Insights:**
 
 Companies laid off an average of 32.19% of their workforce during the COVID era compared to 23.35% in the post-COVID period. This suggests that pandemic-era layoffs were generally more severe, despite fewer employees being affected overall.
 
 ### 4. Total Layoffs by Country
 
-![chart](./Charts/Layoffs_by_Country.png)
+![chart](./powerbi_visuals/Layoffs_by_Country.png)
 **Key Insights:**
 
 The United States accounted for the highest number of layoffs, with over 256,000 employees affected, far exceeding every other country. India ranked second, reflecting the impact of the global slowdown on major technology and startup ecosystems.
 
 ### 5. Average Layoff Severity by Country
 
-![chart](./Charts/Avg_Layoff_Severity_by_country.png)
+![chart](./powerbi_visuals/Avg_Layoff_Severity_by_country.png)
 **Key Insights:**
 
 Companies in the United Arab Emirates (46.3%) and Australia (38.5%) experienced the deepest workforce reductions on average. In contrast, the United States recorded a lower average layoff percentage despite having the highest number of layoffs overall.
 
 ### 6. Total Layoffs by Funding Stage
 
-![chart](./Charts/Layoffs_Funding_Stage.png)
+![chart](./powerbi_visuals/Layoffs_Funding_Stage.png)
 **Key Insights:**
 
 Post-IPO companies generated the largest number of layoffs, accounting for more than 204,000 affected employees. This indicates that large public companies played a major role in the global layoff wave.
 
 ### 7. Layoff Severity by Funding Stage
 
-![chart](./Charts/Layoff_severity.png)
+![chart](./powerbi_visuals/Layoff_severity.png)
 **Key Insights:**
 
 Seed-stage startups experienced the most severe workforce reductions, laying off an average of 70.17% of employees. Although Post-IPO firms generated more layoffs overall, their average layoff percentage was significantly lower.
@@ -204,7 +204,7 @@ on external funding.
 
 ### 8. Layoff Severity by Industry
 
-![chart](./Charts/Layoff_severity_industry.png)
+![chart](./powerbi_visuals/Layoff_severity_industry.png)
 
 **Key Insights:**
 
@@ -212,7 +212,7 @@ The Aerospace, Education, and Travel sectors recorded the highest layoff severit
 
 ### 9. Distribution of Layoff Events by Severity
 
-![chart](./Charts/Layoff_severity_dist.png)
+![chart](./powerbi_visuals/Layoff_severity_dist.png)
 
 **Key Insights:**
 
@@ -220,7 +220,10 @@ Most layoff events involved moderate workforce reductions (10–25%), accounting
 
 ### 10. Top Companies by Layoffs per Year
 
-![chart](./Charts/Top_rank_layoffs.png)
+![chart](./powerbi_visuals/Top_rank_layoffs_2020.png)
+![chart](./powerbi_visuals/Top_rank_layoffs_2021.png)
+![chart](./powerbi_visuals/Top_rank_layoffs_2022.png)
+![chart](./powerbi_visuals/Top_rank_layoffs_2023.png)
 **Key Insights:**
 
 The companies driving layoffs shifted over time. Travel and mobility firms such as Uber and Booking.com dominated layoffs during COVID-19, while technology giants including Google, Microsoft, Meta, Amazon, and Salesforce led the post-pandemic layoff wave. This shift highlights how the causes of layoffs evolved from pandemic-related demand shocks to post-pandemic workforce optimization and economic tightening.
